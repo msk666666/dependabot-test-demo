@@ -100,6 +100,10 @@
             <artifactId>feign-okhttp</artifactId>
             <version>11.8</version>
        </dependency>
-
+       <dependency>
+            <groupId>org.apache.cxf</groupId>
+            <artifactId>cxf-core</artifactId>
+            <version>3.2.11</version>
+       </dependency>
     </dependencies>
 </project>
