@@ -95,5 +95,11 @@
             <artifactId>redisson-spring-data-20</artifactId>
             <version>3.17.6</version>
         </dependency>
+        <dependency>
+            <groupId>io.github.openfeign</groupId>
+            <artifactId>feign-okhttp</artifactId>
+            <version>11.8</version>
+       </dependency>
+
     </dependencies>
 </project>
